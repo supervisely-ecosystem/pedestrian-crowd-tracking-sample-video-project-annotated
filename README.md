@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="#overview">Overview</a> •
+  <a href="#use-cases-and-applications">Use Cases and Applications</a> •
   <a href="#how-this-project-helps-users">How this project helps users</a> •
   <a href="#download">Download</a>
 </p>
@@ -22,6 +23,22 @@
 This is an annotated sample project featuring videos of pedestrian crowds captured by a static camera. The project demonstrates object detection and tracking capabilities with pre-annotated masks created using automated annotation tool [Serve Segment Anything 2.1](https://dev.internal.supervisely.com/ecosystem/apps/serve-segment-anything-2?id=330) and [AutoTrack](https://docs.supervisely.com/labeling/labeling-toolbox/videos-3.0#auto-tracking), eliminating the need for manual frame-by-frame annotation. This annotation methodology can be applied to various scenarios - from public spaces monitoring to event management, retail analytics, and urban planning applications.
 
 <img src="https://github.com/supervisely-ecosystem/pedestrian-crowd-tracking-sample-video-project-annotated/releases/download/v1.0.0/crowd.png" />
+
+## Use Cases and Applications
+
+Pedestrian detection and tracking technology has broad applications across multiple industries:
+
+**Public Spaces & Transportation**: Airports, train stations, metro terminals - monitor passenger flow, manage queues, optimize crowd movement during peak hours
+
+**Retail & Commercial**: Shopping malls, stores, supermarkets - track customer patterns, analyze dwell times, optimize layouts and staff allocation
+
+**Events & Entertainment**: Concerts, stadiums, museums - monitor crowd density, manage capacity, improve visitor flow and safety
+
+**Cities**: Crosswalks, public parks, parking areas - optimize traffic timing, analyze usage patterns, enhance pedestrian safety
+
+**Security & Safety**: Crowd control, restricted areas, emergency response - detect abnormal behaviors, prevent overcrowding, improve evacuation planning
+
+**Corporate & Institutional**: Offices, universities, hospitals - track occupancy, optimize space utilization, improve operational efficiency
 
 ## How this project helps users
 
