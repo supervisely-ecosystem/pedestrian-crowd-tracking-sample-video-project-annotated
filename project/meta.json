@@ -1,0 +1,24 @@
+{
+    "classes": [
+        {
+            "title": "human",
+            "description": "",
+            "shape": "bitmap",
+            "color": "#FF2D00",
+            "geometry_config": {},
+            "id": 195138,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "videos",
+    "projectSettings": {
+        "multiView": {
+            "enabled": false,
+            "tagName": null,
+            "tagId": null,
+            "isSynced": false
+        },
+        "labelingInterface": "default"
+    }
+}
